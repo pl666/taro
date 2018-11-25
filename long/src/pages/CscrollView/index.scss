@@ -1,0 +1,46 @@
+.wrap {
+    font-size: .5rem;
+}
+
+.s-v{
+    width: 100%;
+    height: 30vw;
+    white-space: nowrap;
+    padding: 0 .25rem;
+}
+
+.a,
+.b,
+.c,
+.d {
+    height: 30vw;
+    line-height: 30vw;
+    text-align: center;
+    font-size: 9vw;
+    color: #fff;
+    font-weight: 700;
+}
+.tit {
+    font-size: 5vw;
+    color: #666;
+    margin: .3rem .22rem .18rem;
+}
+.a {
+    background-color: rgb(157, 104, 255);
+}
+.b {
+    background-color: rgb(143, 255, 167);
+}
+.c {
+    background-color: rgb(255, 217, 195);
+}
+
+.d {
+    background-color: rgb(236, 31, 168);
+}
+
+.row {
+    display: inline-block !important;
+    width: 100%;
+    height: 30vw;
+}
